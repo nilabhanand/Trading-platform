@@ -1,0 +1,129 @@
+.articlesdiv {
+  min-height: 100vh;
+  background-color: #252729;
+}
+
+.terminalarticles {
+  height: 50vh;
+  width:75%;
+  float:right;
+  background-color:#0e1417;
+}
+
+.articlesdiv h1 {
+  padding-left: 20px;
+}
+
+.tweetsdiv {
+  background-color: #252729;
+  height: 200px;
+  width: 25%;
+  float: left;
+}
+
+.chartsdiv {
+  background-color: #252729;
+  min-height: 100vh;
+}
+#tradingview-widget-container__widget{
+  width: 25%;
+  height: 400px;
+  background-color: #0e1417;
+}
+.twitter {
+  background-color: #0e1417;
+  width:25%;
+  height: 400px;
+}
+.marketsdiv {
+  background-color: #0e1417;
+  min-height: 100vh;
+}
+
+.newsdiv {
+  background-color: #0e1417;
+  min-height: 100vh;
+}
+
+#myContainer {
+  background-color: #0e1417;
+  height: 100%;
+  width: 100%;
+}
+
+#myContainer2 {
+  background-color: #0e1417;
+  height: 75vh;
+  width: 75%;
+  float: right;
+}
+
+.tabscolor {
+  background-color: #0e1417;
+  color: #fff;
+}
+
+.paper {
+  background-color: #252729;
+  min-width: 100vh;
+}
+
+.articlesfeed {
+  padding: 10;
+  margin-left: 10px;
+  background-color: #0e1417;
+  /* width: 40%; */
+}
+
+.pairsfeed {
+  padding: 10;
+  margin-left: 10px;
+  background-color: #0e1417;
+}
+
+.MuiExpansionPanel-root {
+  color: #fff;
+  background: linear-gradient(45deg, #252729 30%, #252729 90%);
+  border: 0;
+  width: 50%;
+}
+
+.content {
+  color: white;
+}
+
+.link a {
+  text-decoration: none;
+}
+
+.marketsdiv {
+  background-color: #0e1417;
+  flex-grow: 1;
+}
+
+.stocksdiv {
+  background: linear-gradient(45deg, #121212 30%, #121212 90%);
+  text-align: center;
+  margin-top: 15px;
+  min-height: 100vh;
+  padding: 10;
+}
+.stocksdiv,
+.forexdiv,
+.indexdiv h6 {
+  padding-top: 10px;
+}
+.forexdiv {
+  background: linear-gradient(45deg, #121212 30%, #121212 90%);
+  text-align: center;
+  margin-top: 15px;
+  min-height: 100vh;
+  padding: 10;
+}
+.indexdiv {
+  background: linear-gradient(45deg, #121212 30%, #121212 90%);
+  text-align: center;
+  margin-top: 15px;
+  min-height: 100vh;
+  padding: 10;
+}
